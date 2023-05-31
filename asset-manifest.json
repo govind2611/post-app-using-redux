@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/post-app-using-redux/static/css/main.328991da.css",
+    "main.js": "/post-app-using-redux/static/js/main.a7fefa7c.js",
+    "index.html": "/post-app-using-redux/index.html",
+    "main.328991da.css.map": "/post-app-using-redux/static/css/main.328991da.css.map",
+    "main.a7fefa7c.js.map": "/post-app-using-redux/static/js/main.a7fefa7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.328991da.css",
+    "static/js/main.a7fefa7c.js"
+  ]
+}
